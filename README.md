@@ -58,5 +58,3 @@ You can repeat the operation as many times as you want by simply pressing again 
 To stop the program, just close the tkinter window.
 
 11/17/2019
-
-Translated with www.DeepL.com/Translator (free version)
